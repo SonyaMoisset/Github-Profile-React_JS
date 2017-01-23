@@ -1,0 +1,35 @@
+h5 {
+    color: teal;
+    margin-top: 10px !important;
+    margin-bottom: 0 !important;
+}
+
+.card-wrapper .card-up img { min-width: 0; }
+
+.card-wrapper .card-up { height: 30%; }
+
+.card-block p { margin-bottom: 0 !important; }
+
+.edge-header { height: 200px; }
+
+#username {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+#city {
+    margin-bottom: 0.25rem !important;
+    font-weight: lighter;
+}
+
+#bio { font-weight: lighter; }
+
+#company { margin-bottom: 1rem !important; }
+
+#email,
+#website {
+    color: teal;
+    padding-top: 0;
+    margin-top: 0;
+}
